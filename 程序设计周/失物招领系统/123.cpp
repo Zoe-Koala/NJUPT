@@ -278,12 +278,12 @@ void op5()//物品拍卖
 	{
 		if(strcmp(g[i].time,time)<0&&strcmp(g[i].flag,"未认领")==0)
 		{
-			if(t=0)
+			if(t==0)
 			{
 				printf("要拍卖的拍卖品如下：\n");
 			}
 			t++;
-			printf("第%d件拍卖品： ",i+1);
+			printf("第%d件拍卖品： ",t);
 			show(g[i]);
 		}
 	}
