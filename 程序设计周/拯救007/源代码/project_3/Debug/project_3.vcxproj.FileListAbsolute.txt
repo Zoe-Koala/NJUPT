@@ -1,0 +1,2 @@
+D:\My_code\vs2019\suan_fa\project_3\Debug\project_3.exe
+D:\My_code\vs2019\suan_fa\project_3\Debug\project_3.pdb
