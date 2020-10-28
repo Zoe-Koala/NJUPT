@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\My_code\vs2019\suan_fa\project_3\main.cpp(25,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-  project_3.vcxproj -> D:\My_code\vs2019\suan_fa\project_3\Debug\project_3.exe
