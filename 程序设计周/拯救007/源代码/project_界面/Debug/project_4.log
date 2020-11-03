@@ -1,0 +1,3 @@
+﻿  draw.cpp
+D:\My_code\vs2019\suan_fa\project_4\draw.cpp(13,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  project_4.vcxproj -> D:\My_code\vs2019\suan_fa\project_4\Debug\project_4.exe
